@@ -1,2 +1,4 @@
-# techplement
-Internship program using Python
+# Cognifyz Technologies
+INTERNSHIP PROGRAM
+
+Data Analysis
